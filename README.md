@@ -1,2 +1,2 @@
 # CNNProj
-Created a CNN using keras ResNetV2 to identify monkey breeds
+Created a CNN using keras ResNet50V2 to identify monkey breeds
